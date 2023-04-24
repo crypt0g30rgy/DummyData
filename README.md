@@ -8,4 +8,5 @@ scraped kenyan names from 2 websites using the ./scrape.py && ./advanced.py
 > https://studentsoftheworld.info/penpals/stats.php?Pays=KEN
 
 Made dummy emails data using ./emails.py
+
 Made dummy phone numbers using ./phone.py
